@@ -1,6 +1,6 @@
 <?php
-function saludo(){
-echo "ahora si que si mis reyes";
+function saludo($nombre){
+echo "ahora si que si mis reyes, como estas" .$nombre;
 }
 
 ?>
